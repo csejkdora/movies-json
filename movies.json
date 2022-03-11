@@ -1,0 +1,41 @@
+[
+  {
+    "title": "movie",
+    "length": 90,
+    "isKidFriendly": false,
+    "protagonist": {
+      "actorName": "Lujzi Ka",
+      "characterName": "Csajszi Ka"
+    },
+    "antagonist": {
+      "actorName": "Faszi Ka",
+      "characterName": "Csávó Ka"
+    }
+  },
+  {
+    "title": "movie2",
+    "length": 120,
+    "isKidFriendly": false,
+    "protagonist": {
+      "actorName": "Xy Z",
+      "characterName": "Ab C"
+    },
+    "antagonist": {
+      "actorName": "Pq R",
+      "characterName": "Ef G"
+    }
+  },
+  {
+    "title": "Mesefilm",
+    "length": 75,
+    "isKidFriendly": true,
+    "protagonist": {
+      "actorName": "Mese Manci",
+      "characterName": "Tündér Hercegnő"
+    },
+    "antagonist": {
+      "actorName": "Mese Hapsi",
+      "characterName": "Gonosz Fráter"
+    }
+  }
+]
